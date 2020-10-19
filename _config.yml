@@ -6,11 +6,27 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo-sq.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1' #! Need to change
-disqus: 'demowebsite' #! Need to change
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b' #! Need to change
 include: ["_pages"]
 permalink: /:title/
 email: dev.repoerna@gmail.com
+
+
+# Newsletter
+mailchimp-list: 'https://gmail.us2.list-manage.com/subscribe/post?u=241e543acdefae1f09b3d55ed&amp;id=19830e3cd6' #! Need to change
+
+
+
+# Comment 
+# Utternes
+repo: "repoerna/repoerna.github.io"
+issue-term: "pathname"
+label: "repoerna-comment"
+theme-utternes: "github-light"
+crossorigin: "anonymous"
+
+# Disqus
+disqus: 'demowebsite'
+
 
 # Authors
 authors:
