@@ -440,7 +440,15 @@ img, img:hover {
         border:2px solid darken($primary,20%);
         padding:2px;
     }
+    .author-contact {
+        width:200px;
+        border-radius:50%;
+        border:2px solid darken($primary,20%);
+        padding:2px;
+    }
 }
+
+
 .article-post {    
     font-size:18px;
     p {

@@ -1,7 +1,7 @@
 # Site
 name: "Repoerna"
 title: "Journal"
-description: "Journal of technology exploration. Data Engineering, Application Development, and other Engineering stuff.<br>Enjoy Reading!"
+description: "Journal of technology exploration. Data Engineering, Application Development,<br>and other Engineering stuff.<br>Enjoy Reading!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo-sq.png'
 baseurl: ""
@@ -15,6 +15,9 @@ email: dev.repoerna@gmail.com
 mailchimp-list: 'https://gmail.us2.list-manage.com/subscribe/post?u=241e543acdefae1f09b3d55ed&amp;id=19830e3cd6' #! Need to change
 
 
+# Contact
+# formspring.io
+formspring-enpoint: "https://formspree.io/f/mjvpwkpp"
 
 # Comment 
 # Utternes
@@ -30,14 +33,16 @@ disqus: 'demowebsite'
 
 # Authors
 authors:
-  Purna:
+  pur:
     name: Purna Satria Nugraha
     display_name: Purna
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: "assets/images/me.jpg"
     email: ws.purnasatria@gmail.com
-    web: https://www.wowthemes.net/donate/ #! Need to change
+    linketin: "https://www.linkedin.com/in/purnasatria"
+    github: https://github.com/repoerna/
     twitter: https://twitter.com/purnasn
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "An egineering graduates, a toddler in IT world. Mostly do programming using Go and Python, and do some <br>Data Engineering stuff"
   
 
 # Plugins

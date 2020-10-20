@@ -6,7 +6,7 @@ var documents = [{
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
+    "url": "http://localhost:4000/about-themes",
     "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to Repoerna. We will reply as soon as possible!   "
+    "body": "                       About Purna                              An egineering graduates, a toddler in IT world. Mostly do programming using Go and Python, and do some Data Engineering stuff            Please send your message to Repoerna. We will reply as soon as possible!                                                       "
     }, {
     "id": 4,
     "url": "http://localhost:4000/",
