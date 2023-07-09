@@ -1,0 +1,8 @@
+.pagination a {
+    color: var(--ctp-base-rgb);
+    font-size: 13px;
+    line-height: 36px;
+    background: var(--primary);
+    border-radius: calc(36px / 2);
+    padding: 0 16px;
+}

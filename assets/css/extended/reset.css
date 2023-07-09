@@ -1,0 +1,7 @@
+a, button, body {
+    color: var(--ctp-teal-rgb);
+}
+
+.header {
+    background-color: var(--ctp-crust-rgb);
+}

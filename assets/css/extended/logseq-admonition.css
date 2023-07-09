@@ -1,0 +1,161 @@
+/* caution - red 
+example - mauve
+important - maroon
+note - green
+pinned - peach
+tip - sky
+quote - blue 
+warning - yellow */
+
+.admonition-icon, 
+.admonition-caution > .custom-block-heading::before, 
+.admonition-example > .custom-block-heading::before, 
+.admonition-important > .custom-block-heading::before, 
+.admonition-note > .custom-block-heading::before, 
+.admonition-pinned > .custom-block-heading::before, 
+.admonition-tip > .custom-block-heading::before, 
+.admonition-quote > .custom-block-heading::before, 
+.admonition-warning > .custom-block-heading::before {
+  position: absolute;
+  left: 1.2rem;
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  width: 24px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  text-align: center;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'liga';
+}
+
+.admonition-title, 
+.admonition-caution > .custom-block-heading, 
+.admonition-example > .custom-block-heading, 
+.admonition-important > .custom-block-heading, 
+.admonition-note > .custom-block-heading, 
+.admonition-pinned > .custom-block-heading, 
+.admonition-tip > .custom-block-heading, 
+.admonition-quote > .custom-block-heading, 
+.admonition-warning > .custom-block-heading {
+  margin: 0 -1.2rem;
+  padding: 0.8rem 1.2rem 0.8rem 4rem;
+  border-bottom: 0.1rem solid rgba(68, 138, 255, 0.1);
+  background-color: rgba(68, 138, 255, 0.1);
+  font-weight: 700;
+}
+
+.admonition-caution > .custom-block-body, 
+.admonition-example > .custom-block-body, 
+.admonition-important > .custom-block-body, 
+.admonition-note > .custom-block-body, 
+.admonition-pinned > .custom-block-body, 
+.admonition-tip > .custom-block-body, 
+.admonition-quote > .custom-block-body, 
+.admonition-warning > .custom-block-body { 
+    margin:1em 0;
+}
+
+.admonition-caution,
+.admonition-example,
+.admonition-important,
+.admonition-note,
+.admonition-pinned,
+.admonition-tip,
+.admonition-quote,
+.admonition-warning {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    position: relative;
+    margin: 1.5625em 0;
+    padding: 0 1.2rem;
+    border-radius: 0.2rem;
+    overflow: auto;
+    border-left: 0.4rem solid;
+  }
+
+/* .admonition-note {
+    border-left-color: rgb(68, 138, 255);
+    border-left: 0.4rem solid #448aff;
+} */
+
+.admonition-caution {
+  border-left-color: var(--ctp-yellow-rgb);
+}
+
+.admonition-caution > .custom-block-heading::before {
+  color: var(--ctp-yellow-rgb);
+  content: "\f06a";
+}
+
+.admonition-example {
+  border-left-color: var(--ctp-mauve-rgb);
+}
+
+.admonition-example > .custom-block-heading::before {
+  color: var(--ctp-mauve-rgb);
+  content: "\f059";
+}
+
+.admonition-important {
+  border-left-color: var(--ctp-sapphire-rgb);
+}
+
+.admonition-important > .custom-block-heading::before {
+  color: var(--ctp-sapphire-rgb);
+  content: "\f05a";
+}
+
+.admonition-note {
+  border-left-color: var(--ctp-green-rgb);
+}
+
+.admonition-note > .custom-block-heading::before {
+  color: var(--ctp-green-rgb);
+  content: "\f249";
+}
+
+.admonition-pinned {
+  border-left-color: var(--ctp-peach-rgb);
+}
+
+.admonition-pinned > .custom-block-heading::before {
+  color: var(--ctp-peach-rgb);
+  content: "\f08d";
+}
+
+.admonition-tip {
+  border-left-color: var(--ctp-sky-rgb);
+}
+
+.admonition-tip > .custom-block-heading::before {
+  color: var(--ctp-sky-rgb);
+  content: "\f0eb";
+}
+
+.admonition-quote {
+  border-left-color: var(--ctp-blue-rgb);
+}
+
+.admonition-quote > .custom-block-heading::before {
+  color: var(--ctp-blue-rgb);
+  content: "\f10d";
+}
+
+.admonition-warning {
+  border-left-color: var(--ctp-red-rgb);
+}
+
+.admonition-warning > .custom-block-heading::before {
+  color: var(--ctp-red-rgb);
+  content: "\f071";
+}
+
+

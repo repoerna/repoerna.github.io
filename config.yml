@@ -1,0 +1,35 @@
+baseURL : 'http://purnasatria.dev'
+languageCode : 'en-us'
+title : 'purnasatria'
+theme : 'PaperMod'
+
+
+menu:
+    main:
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 10
+
+params:
+    domain: 'dev'
+
+    homeInfoParams:
+        Title: Greetings! 👋
+        Content: I'm Purna a M̶e̶c̶h̶a̶n̶i̶c̶a̶l̶ Software Engineer. This blog is a personal journal of technology exploration 📓. I am trying to write about Data Engineering, Application Development, other tech stuff. Enjoy Reading! 😊
+
+
+    socialIcons: # optional
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/purnasatria/"
+        - name: "github"
+          url: "https://github.com/repoerna"
+        - name: "twitter"
+          url: "https://twitter.com/purnasn"
+        - name: "medium"
+          url: "https://purnasatria.medium.com/"
+
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true #recomendation
