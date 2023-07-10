@@ -42,3 +42,4 @@ params:
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true #recomendation
+    ShowCodeCopyButtons: true
