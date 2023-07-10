@@ -18,6 +18,10 @@ menu:
 
 params:
     domain: 'dev'
+    defaultTheme: 'dark'
+
+    cover:
+      responsiveImages: true
 
     homeInfoParams:
         Title: Greetings! 👋
