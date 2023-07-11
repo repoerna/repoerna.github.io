@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on purnasatria</title>
+    <link>https://repoerna.github.io/posts/</link>
+    <description>Recent content in Posts on purnasatria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Mar 2023 11:10:02 +0000</lastBuildDate><atom:link href="https://repoerna.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Checkpoint VPN Client on Ubuntu 22.04</title>
+      <link>https://repoerna.github.io/posts/installing-checkpoint-vpn-client-on-ubuntu-22-04/</link>
+      <pubDate>Mon, 13 Mar 2023 11:10:02 +0000</pubDate>
+      
+      <guid>https://repoerna.github.io/posts/installing-checkpoint-vpn-client-on-ubuntu-22-04/</guid>
+      <description>This is a step-by-step guide to install Checkpoint VPN in Ubuntu 22.04 x64-bit version.</description>
+    </item>
+    
+    <item>
+      <title>Mindsets of Self-learner</title>
+      <link>https://repoerna.github.io/posts/mindsets-of-self-learner/</link>
+      <pubDate>Sun, 08 Aug 2021 10:12:13 +0000</pubDate>
+      
+      <guid>https://repoerna.github.io/posts/mindsets-of-self-learner/</guid>
+      <description>“Picture your brain forming new connections as you meet the challenge and learn. Keep ongoing.” — Carol Dweck
+Our Thoughts Define Us Thoughts will determine a person’s behaviour. Our mindset will affect our character, habits, behaviour, and attitude, that strongly influenced by the belief system, value system, family values, education, and the environment. Therefore we must ensure that our mindset is only shaped and influenced by right and good values.</description>
+    </item>
+    
+    <item>
+      <title>Docker Tutorial — Complete Beginner’s Guide</title>
+      <link>https://repoerna.github.io/posts/docker-tutorial-complete-beginners-guide/</link>
+      <pubDate>Sun, 20 Jun 2021 05:13:53 +0000</pubDate>
+      
+      <guid>https://repoerna.github.io/posts/docker-tutorial-complete-beginners-guide/</guid>
+      <description>Prelude This post will give a basic tutorial on how to using Docker. The topics that will be explained are:
+What is Docker
+Docker Architecture
+Start using Docker (Guide to using basic commands)
+Create Image using Dockerfile
+Handle Image using Environment Variable
+Integrate Container Networking
+Manage Data in Docker
+Docker Compose
+Docker Tools
+Docker Cheat-sheet
+This post will be pretty long, and I hope you will enjoy it, and feel free to give feedback to help me improve this tutorial.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,12 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://repoerna.github.io/categories/</loc>
+    <loc>https://repoerna.github.io/tags/checkpoint/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/posts/installing-checkpoint-vpn-client-on-ubuntu-22-04/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/linux/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/posts/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
   </url><url>
     <loc>https://repoerna.github.io/</loc>
-  </url><url>
-    <loc>https://repoerna.github.io/search/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
   </url><url>
     <loc>https://repoerna.github.io/tags/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/ubuntu/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/vpn/</loc>
+    <lastmod>2023-03-13T11:10:02+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/categories/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/growth/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/posts/mindsets-of-self-learner/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/motivation/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/personal-development/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/self-improvement/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/categories/self-improvement/</loc>
+    <lastmod>2021-08-08T10:12:13+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/docker/</loc>
+    <lastmod>2021-06-20T05:13:53+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/posts/docker-tutorial-complete-beginners-guide/</loc>
+    <lastmod>2021-06-20T05:13:53+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/tags/golang/</loc>
+    <lastmod>2021-06-20T05:13:53+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/categories/software-development/</loc>
+    <lastmod>2021-06-20T05:13:53+00:00</lastmod>
+  </url><url>
+    <loc>https://repoerna.github.io/search/</loc>
   </url>
 </urlset>

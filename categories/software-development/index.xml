@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>software-development on purnasatria</title>
+    <link>https://repoerna.github.io/categories/software-development/</link>
+    <description>Recent content in software-development on purnasatria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 05:13:53 +0000</lastBuildDate><atom:link href="https://repoerna.github.io/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Tutorial — Complete Beginner’s Guide</title>
+      <link>https://repoerna.github.io/posts/docker-tutorial-complete-beginners-guide/</link>
+      <pubDate>Sun, 20 Jun 2021 05:13:53 +0000</pubDate>
+      
+      <guid>https://repoerna.github.io/posts/docker-tutorial-complete-beginners-guide/</guid>
+      <description>Prelude This post will give a basic tutorial on how to using Docker. The topics that will be explained are:
+What is Docker
+Docker Architecture
+Start using Docker (Guide to using basic commands)
+Create Image using Dockerfile
+Handle Image using Environment Variable
+Integrate Container Networking
+Manage Data in Docker
+Docker Compose
+Docker Tools
+Docker Cheat-sheet
+This post will be pretty long, and I hope you will enjoy it, and feel free to give feedback to help me improve this tutorial.</description>
+    </item>
+    
+  </channel>
+</rss>
