@@ -5,3 +5,7 @@ a, button, body {
 .header {
     background-color: var(--ctp-crust-rgb);
 }
+
+body {
+    background: var(--ctp-base-rgb);
+}
